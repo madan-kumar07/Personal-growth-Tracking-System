@@ -1,0 +1,3134 @@
+{
+  "version": 5,
+  "onboarded": true,
+  "startDate": "2026-06-18",
+  "dayCount": 0,
+  "profile": {
+    "name": "Madan",
+    "email": "mathankumar4kumar@gmail.com",
+    "college": "JJ COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "degree": "B.E Computer Science",
+    "semester": "5",
+    "cgpa": "8.0",
+    "targetRole": "Full Stack Developer",
+    "dreamCompany": "Zoho",
+    "dreamSalary": "10 LPA",
+    "photo": "",
+    "about": "computer science student want to learn new things",
+    "currentWeight": 50,
+    "targetWeight": 70,
+    "heightCm": 0,
+    "currentCodingLevel": "Beginner",
+    "currentEnglishLevel": "Intermediate",
+    "currentSkills": "html,basic java"
+  },
+  "settings": {
+    "theme": "dark",
+    "accentColor": "indigo",
+    "sidebarCollapsed": false
+  },
+  "gamification": {
+    "xp": 300,
+    "achievements": [
+      "first_login",
+      "first_mission"
+    ],
+    "streaks": {
+      "coding": {
+        "current": 0,
+        "best": 0,
+        "lastDate": null
+      },
+      "workout": {
+        "current": 0,
+        "best": 0,
+        "lastDate": null
+      },
+      "english": {
+        "current": 0,
+        "best": 0,
+        "lastDate": null
+      },
+      "study": {
+        "current": 0,
+        "best": 0,
+        "lastDate": null
+      },
+      "overall": {
+        "current": 2,
+        "best": 2
+      }
+    },
+    "totalMissionsCompleted": 6,
+    "xpHistory": [
+      {
+        "amount": 50,
+        "label": "Day completed",
+        "source": "calendar",
+        "date": "2026-06-18",
+        "timestamp": "2026-06-18T17:12:20.447Z"
+      },
+      {
+        "amount": 40,
+        "label": "Solve 2 DSA problems",
+        "source": "mission",
+        "date": "2026-06-18",
+        "timestamp": "2026-06-18T17:12:33.106Z"
+      },
+      {
+        "amount": 30,
+        "label": "Study 1 roadmap topic",
+        "source": "mission",
+        "date": "2026-06-18",
+        "timestamp": "2026-06-18T17:12:36.867Z"
+      },
+      {
+        "amount": 20,
+        "label": "Practice English for 15 min",
+        "source": "mission",
+        "date": "2026-06-18",
+        "timestamp": "2026-06-18T17:12:38.043Z"
+      },
+      {
+        "amount": 20,
+        "label": "Workout for 20 minutes",
+        "source": "mission",
+        "date": "2026-06-18",
+        "timestamp": "2026-06-18T17:12:38.623Z"
+      },
+      {
+        "amount": 10,
+        "label": "Drink 3 litres of water",
+        "source": "mission",
+        "date": "2026-06-18",
+        "timestamp": "2026-06-18T17:12:39.249Z"
+      },
+      {
+        "amount": 10,
+        "label": "Write in your journal",
+        "source": "mission",
+        "date": "2026-06-18",
+        "timestamp": "2026-06-18T17:12:40.033Z"
+      }
+    ]
+  },
+  "missions": [
+    {
+      "title": "Code for 1 hour",
+      "xp": 50,
+      "category": "coding",
+      "priority": "high",
+      "id": "mqjn4xd4q6ws",
+      "completed": false,
+      "createdAt": "2026-06-18",
+      "archived": true
+    },
+    {
+      "title": "Solve 2 DSA problems",
+      "xp": 40,
+      "category": "coding",
+      "priority": "high",
+      "id": "mqjn4xd4xd02",
+      "completed": true,
+      "createdAt": "2026-06-18",
+      "archived": false
+    },
+    {
+      "title": "Study 1 roadmap topic",
+      "xp": 30,
+      "category": "learning",
+      "priority": "medium",
+      "id": "mqjn4xd4ny21",
+      "completed": true,
+      "createdAt": "2026-06-18",
+      "archived": false
+    },
+    {
+      "title": "Practice English for 15 min",
+      "xp": 20,
+      "category": "english",
+      "priority": "medium",
+      "id": "mqjn4xd4yauc",
+      "completed": true,
+      "createdAt": "2026-06-18",
+      "archived": false
+    },
+    {
+      "title": "Workout for 20 minutes",
+      "xp": 20,
+      "category": "health",
+      "priority": "medium",
+      "id": "mqjn4xd4tcd0",
+      "completed": true,
+      "createdAt": "2026-06-18",
+      "archived": false
+    },
+    {
+      "title": "Drink 3 litres of water",
+      "xp": 10,
+      "category": "health",
+      "priority": "low",
+      "id": "mqjn4xd4hmmy",
+      "completed": true,
+      "createdAt": "2026-06-18",
+      "archived": false
+    },
+    {
+      "title": "Write in your journal",
+      "xp": 10,
+      "category": "journal",
+      "priority": "low",
+      "id": "mqjn4xd4f7kt",
+      "completed": true,
+      "createdAt": "2026-06-18",
+      "archived": false
+    }
+  ],
+  "missionDate": "2026-06-18",
+  "calendar": [
+    {
+      "date": "2026-06-18",
+      "status": "success",
+      "xp": 50
+    }
+  ],
+  "habits": [
+    {
+      "id": "h1",
+      "title": "Morning workout",
+      "icon": "💪",
+      "category": "health",
+      "completed": false,
+      "xp": 20
+    },
+    {
+      "id": "h2",
+      "title": "Code for 1 hour",
+      "icon": "💻",
+      "category": "coding",
+      "completed": false,
+      "xp": 50
+    },
+    {
+      "id": "h3",
+      "title": "Drink 3L water",
+      "icon": "💧",
+      "category": "health",
+      "completed": false,
+      "xp": 10
+    },
+    {
+      "id": "h4",
+      "title": "Read / Study",
+      "icon": "📚",
+      "category": "learning",
+      "completed": false,
+      "xp": 20
+    },
+    {
+      "id": "h5",
+      "title": "English practice",
+      "icon": "🗣️",
+      "category": "english",
+      "completed": false,
+      "xp": 20
+    },
+    {
+      "id": "h6",
+      "title": "Journal entry",
+      "icon": "📝",
+      "category": "journal",
+      "completed": false,
+      "xp": 10
+    },
+    {
+      "id": "h7",
+      "title": "Meditation",
+      "icon": "🧘",
+      "category": "health",
+      "completed": false,
+      "xp": 10
+    }
+  ],
+  "dailyLog": {},
+  "coding": {
+    "totalHours": 0,
+    "todayHours": 0,
+    "sessions": [],
+    "languages": {},
+    "weeklyGoal": 10,
+    "dailyGoal": 2,
+    "heatmap": {},
+    "notes": []
+  },
+  "health": {
+    "score": 0,
+    "workouts": [],
+    "sleepLog": [],
+    "waterLog": [],
+    "moodLog": [],
+    "weight": [],
+    "meditationLog": [],
+    "readingLog": []
+  },
+  "english": {
+    "score": 0,
+    "vocabulary": [],
+    "sessions": [],
+    "speakingTopics": [
+      "Introduce yourself in 2 minutes",
+      "Talk about your favorite technology",
+      "Describe your dream career",
+      "Explain a complex topic simply",
+      "Discuss your biggest challenge so far",
+      "Share your daily routine in English",
+      "Talk about a book or article you read",
+      "Describe your hometown",
+      "Explain what Full Stack Development means",
+      "Talk about your goals for the next 6 months"
+    ],
+    "grammarNotes": [],
+    "confidenceScore": 0,
+    "weeklyReport": null
+  },
+  "placement": {
+    "readinessScore": 0,
+    "subjects": [
+      {
+        "id": "dsa",
+        "title": "DSA",
+        "icon": "🧮",
+        "color": "cyan",
+        "topics": [
+          {
+            "id": "dsa-1",
+            "title": "Arrays & Strings",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "dsa-2",
+            "title": "Linked Lists",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "dsa-3",
+            "title": "Stacks & Queues",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "dsa-4",
+            "title": "Trees (Binary, BST)",
+            "completed": false,
+            "xp": 30
+          },
+          {
+            "id": "dsa-5",
+            "title": "Graphs (BFS, DFS)",
+            "completed": false,
+            "xp": 30
+          },
+          {
+            "id": "dsa-6",
+            "title": "Dynamic Programming",
+            "completed": false,
+            "xp": 40
+          },
+          {
+            "id": "dsa-7",
+            "title": "Sorting Algorithms",
+            "completed": false,
+            "xp": 25
+          },
+          {
+            "id": "dsa-8",
+            "title": "Searching Algorithms",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "dsa-9",
+            "title": "Recursion & Backtracking",
+            "completed": false,
+            "xp": 30
+          },
+          {
+            "id": "dsa-10",
+            "title": "Hashing & Hash Maps",
+            "completed": false,
+            "xp": 25
+          },
+          {
+            "id": "dsa-11",
+            "title": "Heaps & Priority Queues",
+            "completed": false,
+            "xp": 25
+          },
+          {
+            "id": "dsa-12",
+            "title": "Greedy Algorithms",
+            "completed": false,
+            "xp": 25
+          }
+        ]
+      },
+      {
+        "id": "java",
+        "title": "Java",
+        "icon": "☕",
+        "color": "amber",
+        "topics": [
+          {
+            "id": "java-1",
+            "title": "OOP Concepts (4 pillars)",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "java-2",
+            "title": "Inheritance & Polymorphism",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "java-3",
+            "title": "Interfaces & Abstract Classes",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "java-4",
+            "title": "Exception Handling",
+            "completed": false,
+            "xp": 15
+          },
+          {
+            "id": "java-5",
+            "title": "Collections Framework",
+            "completed": false,
+            "xp": 25
+          },
+          {
+            "id": "java-6",
+            "title": "Generics",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "java-7",
+            "title": "Multithreading & Concurrency",
+            "completed": false,
+            "xp": 30
+          },
+          {
+            "id": "java-8",
+            "title": "Java 8+ Features (Streams, Lambda)",
+            "completed": false,
+            "xp": 25
+          },
+          {
+            "id": "java-9",
+            "title": "Design Patterns",
+            "completed": false,
+            "xp": 30
+          },
+          {
+            "id": "java-10",
+            "title": "JVM & Memory Management",
+            "completed": false,
+            "xp": 25
+          }
+        ]
+      },
+      {
+        "id": "dbms",
+        "title": "DBMS",
+        "icon": "🗄️",
+        "color": "green",
+        "topics": [
+          {
+            "id": "dbms-1",
+            "title": "ER Model & Normalization",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "dbms-2",
+            "title": "SQL Queries (DDL, DML, DCL)",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "dbms-3",
+            "title": "Joins (Inner, Outer, Self)",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "dbms-4",
+            "title": "Indexes & Query Optimization",
+            "completed": false,
+            "xp": 25
+          },
+          {
+            "id": "dbms-5",
+            "title": "Transactions & ACID Properties",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "dbms-6",
+            "title": "Concurrency Control (Locks)",
+            "completed": false,
+            "xp": 25
+          },
+          {
+            "id": "dbms-7",
+            "title": "NoSQL vs SQL",
+            "completed": false,
+            "xp": 15
+          },
+          {
+            "id": "dbms-8",
+            "title": "Stored Procedures & Triggers",
+            "completed": false,
+            "xp": 20
+          }
+        ]
+      },
+      {
+        "id": "os",
+        "title": "OS",
+        "icon": "💻",
+        "color": "purple",
+        "topics": [
+          {
+            "id": "os-1",
+            "title": "Processes & Threads",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "os-2",
+            "title": "CPU Scheduling Algorithms",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "os-3",
+            "title": "Memory Management & Paging",
+            "completed": false,
+            "xp": 25
+          },
+          {
+            "id": "os-4",
+            "title": "Deadlocks & Prevention",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "os-5",
+            "title": "File Systems",
+            "completed": false,
+            "xp": 15
+          },
+          {
+            "id": "os-6",
+            "title": "Virtual Memory",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "os-7",
+            "title": "Semaphores & Mutex",
+            "completed": false,
+            "xp": 25
+          },
+          {
+            "id": "os-8",
+            "title": "Disk Scheduling",
+            "completed": false,
+            "xp": 15
+          }
+        ],
+        "progress": 0
+      },
+      {
+        "id": "cn",
+        "title": "CN",
+        "icon": "🌐",
+        "color": "blue",
+        "topics": [
+          {
+            "id": "cn-1",
+            "title": "OSI & TCP/IP Models",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "cn-2",
+            "title": "HTTP/HTTPS & REST",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "cn-3",
+            "title": "DNS, DHCP, NAT",
+            "completed": false,
+            "xp": 15
+          },
+          {
+            "id": "cn-4",
+            "title": "TCP vs UDP",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "cn-5",
+            "title": "Routing Protocols",
+            "completed": false,
+            "xp": 25
+          },
+          {
+            "id": "cn-6",
+            "title": "Subnetting & IP Addressing",
+            "completed": false,
+            "xp": 25
+          },
+          {
+            "id": "cn-7",
+            "title": "Socket Programming",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "cn-8",
+            "title": "Network Security (SSL/TLS)",
+            "completed": false,
+            "xp": 20
+          }
+        ]
+      },
+      {
+        "id": "aptitude",
+        "title": "Aptitude",
+        "icon": "🔢",
+        "color": "rose",
+        "topics": [
+          {
+            "id": "apt-1",
+            "title": "Number System",
+            "completed": false,
+            "xp": 15
+          },
+          {
+            "id": "apt-2",
+            "title": "Percentage & Profit-Loss",
+            "completed": false,
+            "xp": 15
+          },
+          {
+            "id": "apt-3",
+            "title": "Time & Work",
+            "completed": false,
+            "xp": 15
+          },
+          {
+            "id": "apt-4",
+            "title": "Speed, Distance & Time",
+            "completed": false,
+            "xp": 15
+          },
+          {
+            "id": "apt-5",
+            "title": "Ratio & Proportion",
+            "completed": false,
+            "xp": 15
+          },
+          {
+            "id": "apt-6",
+            "title": "Permutations & Combinations",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "apt-7",
+            "title": "Probability",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "apt-8",
+            "title": "Logical Reasoning",
+            "completed": false,
+            "xp": 20
+          },
+          {
+            "id": "apt-9",
+            "title": "Verbal Ability",
+            "completed": false,
+            "xp": 15
+          },
+          {
+            "id": "apt-10",
+            "title": "Data Interpretation",
+            "completed": false,
+            "xp": 20
+          }
+        ]
+      },
+      {
+        "id": "hr",
+        "title": "HR",
+        "icon": "🗣️",
+        "color": "green",
+        "topics": [
+          {
+            "id": "hr-1",
+            "title": "Tell me about yourself",
+            "completed": false,
+            "xp": 10
+          },
+          {
+            "id": "hr-2",
+            "title": "Strengths & Weaknesses",
+            "completed": false,
+            "xp": 10
+          },
+          {
+            "id": "hr-3",
+            "title": "Why this company?",
+            "completed": false,
+            "xp": 10
+          },
+          {
+            "id": "hr-4",
+            "title": "Where do you see yourself in 5 years?",
+            "completed": false,
+            "xp": 10
+          },
+          {
+            "id": "hr-5",
+            "title": "STAR Method (Situation-Task-Action-Result)",
+            "completed": false,
+            "xp": 15
+          },
+          {
+            "id": "hr-6",
+            "title": "Conflict resolution scenarios",
+            "completed": false,
+            "xp": 15
+          },
+          {
+            "id": "hr-7",
+            "title": "Salary negotiation",
+            "completed": false,
+            "xp": 15
+          },
+          {
+            "id": "hr-8",
+            "title": "Questions to ask the interviewer",
+            "completed": false,
+            "xp": 10
+          }
+        ]
+      },
+      {
+        "id": "mock",
+        "title": "Mock Interviews",
+        "icon": "🎯",
+        "color": "amber",
+        "topics": [
+          {
+            "id": "mock-1",
+            "title": "Technical Round 1 (DSA)",
+            "completed": false,
+            "xp": 50
+          },
+          {
+            "id": "mock-2",
+            "title": "Technical Round 2 (System Design)",
+            "completed": false,
+            "xp": 50
+          },
+          {
+            "id": "mock-3",
+            "title": "Core Java Interview",
+            "completed": false,
+            "xp": 40
+          },
+          {
+            "id": "mock-4",
+            "title": "DBMS Interview",
+            "completed": false,
+            "xp": 40
+          },
+          {
+            "id": "mock-5",
+            "title": "OS & CN Combined Round",
+            "completed": false,
+            "xp": 40
+          },
+          {
+            "id": "mock-6",
+            "title": "HR Interview Practice",
+            "completed": false,
+            "xp": 30
+          },
+          {
+            "id": "mock-7",
+            "title": "LeetCode Contest",
+            "completed": false,
+            "xp": 60
+          },
+          {
+            "id": "mock-8",
+            "title": "Full Interview Simulation",
+            "completed": false,
+            "xp": 100
+          }
+        ]
+      }
+    ],
+    "mockInterviews": [],
+    "revisionPlan": []
+  },
+  "projects": [],
+  "goals": [],
+  "journal": {
+    "entries": []
+  },
+  "finance": {
+    "income": [],
+    "expenses": [],
+    "savings": 0,
+    "budget": 0,
+    "categories": [
+      "Food",
+      "Transport",
+      "Books",
+      "Entertainment",
+      "Utilities",
+      "Other"
+    ]
+  },
+  "roadmap": [
+    {
+      "id": "html",
+      "category": "Frontend",
+      "title": "HTML",
+      "icon": "🌐",
+      "difficulty": "Beginner",
+      "estimatedHours": 8,
+      "xpReward": 240,
+      "description": "HTML (HyperText Markup Language) is the standard language for creating web pages. It describes the structure and content of a web document.",
+      "whyLearn": "HTML is the foundation of every website. Without HTML, there is no web page. It's the first skill every web developer must master.",
+      "resources": [
+        {
+          "title": "MDN HTML Guide",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+        },
+        {
+          "title": "W3Schools HTML",
+          "url": "https://www.w3schools.com/html/"
+        },
+        {
+          "title": "freeCodeCamp HTML",
+          "url": "https://www.freecodecamp.org"
+        }
+      ],
+      "practiceProjects": [
+        "Personal Portfolio Page",
+        "Resume HTML Page",
+        "Restaurant Menu Page"
+      ],
+      "interviewQuestions": [
+        "What is the difference between HTML and HTML5?",
+        "What are semantic HTML elements?",
+        "Explain the difference between div and span.",
+        "What is the purpose of DOCTYPE declaration?",
+        "What are void elements in HTML?"
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "Introduction to HTML & how browsers work",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "HTML document structure (doctype, html, head, body)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "Headings (h1-h6) and Paragraphs",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "Links and Anchor Tags",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "Lists: Ordered, Unordered, Description",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "Images and Multimedia (img, video, audio)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "Tables: structure, rows, columns, headers",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "Forms: input, select, textarea, button",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "Semantic Tags: header, nav, main, footer, article, section",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "HTML5 New Elements",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t10",
+          "title": "Accessibility & ARIA attributes",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t11",
+          "title": "Mini Project: Build a personal portfolio page",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "css",
+      "category": "Frontend",
+      "title": "CSS Fundamentals",
+      "icon": "🎨",
+      "difficulty": "Beginner",
+      "estimatedHours": 12,
+      "xpReward": 360,
+      "description": "CSS (Cascading Style Sheets) is the language used to style and visually present HTML documents. It controls colors, layouts, fonts, and animations.",
+      "whyLearn": "CSS transforms plain HTML into beautiful websites. Mastering CSS gives you complete control over how your applications look and feel.",
+      "resources": [
+        {
+          "title": "MDN CSS Reference",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+        },
+        {
+          "title": "CSS-Tricks",
+          "url": "https://css-tricks.com"
+        },
+        {
+          "title": "Kevin Powell CSS",
+          "url": "https://www.youtube.com/@KevinPowell"
+        }
+      ],
+      "practiceProjects": [
+        "Styled Resume",
+        "Product Landing Page",
+        "CSS Art Challenge"
+      ],
+      "interviewQuestions": [
+        "What is the CSS box model?",
+        "Explain the difference between margin and padding.",
+        "What is specificity in CSS?",
+        "What is the cascade in CSS?",
+        "Explain position: relative, absolute, fixed, sticky."
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "CSS Syntax, Selectors & Properties",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "Colors: hex, rgb, hsl, named colors",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "Typography: font-family, size, weight, line-height",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "The Box Model: margin, border, padding, content",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "Display: block, inline, inline-block",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "Positioning: static, relative, absolute, fixed, sticky",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "Background properties",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "CSS Variables (Custom Properties)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "Pseudo-classes & Pseudo-elements",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "Transitions & Basic Animations",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t10",
+          "title": "Media Queries (Responsive Basics)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t11",
+          "title": "Mini Project: Style a complete website",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "flexbox",
+      "category": "Frontend",
+      "title": "CSS Flexbox",
+      "icon": "📐",
+      "difficulty": "Beginner",
+      "estimatedHours": 6,
+      "xpReward": 180,
+      "description": "Flexbox is a one-dimensional CSS layout method for arranging items in rows or columns. It's the most commonly used layout system in modern web development.",
+      "whyLearn": "Flexbox is used in virtually every modern web project. It makes centering, spacing, and responsive layouts trivially easy.",
+      "resources": [
+        {
+          "title": "Flexbox Froggy (game)",
+          "url": "https://flexboxfroggy.com"
+        },
+        {
+          "title": "CSS-Tricks Flexbox Guide",
+          "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+        }
+      ],
+      "practiceProjects": [
+        "Navigation Bar",
+        "Card Grid Layout",
+        "Holy Grail Layout"
+      ],
+      "interviewQuestions": [
+        "What is the difference between flex-direction row and column?",
+        "Explain justify-content vs align-items.",
+        "When would you use flex-wrap?",
+        "What does flex: 1 mean?"
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "Flex container vs flex items",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "flex-direction: row, column, reverse",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "justify-content: alignment on main axis",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "align-items: alignment on cross axis",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "flex-wrap and multi-line layouts",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "flex-grow, flex-shrink, flex-basis",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "align-self and order",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "Mini Project: Build a responsive navigation bar",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "cssgrid",
+      "category": "Frontend",
+      "title": "CSS Grid",
+      "icon": "▦",
+      "difficulty": "Intermediate",
+      "estimatedHours": 8,
+      "xpReward": 240,
+      "description": "CSS Grid is a two-dimensional layout system. It lets you define both rows and columns, making it the most powerful layout tool in CSS.",
+      "whyLearn": "Grid is essential for complex page layouts like dashboards, galleries, and full website structures. It works alongside Flexbox.",
+      "resources": [
+        {
+          "title": "Grid Garden (game)",
+          "url": "https://cssgridgarden.com"
+        },
+        {
+          "title": "CSS-Tricks Grid Guide",
+          "url": "https://css-tricks.com/snippets/css/complete-guide-grid/"
+        }
+      ],
+      "practiceProjects": [
+        "Dashboard Layout",
+        "Photo Gallery",
+        "Newspaper Layout"
+      ],
+      "interviewQuestions": [
+        "What is the difference between Flexbox and Grid?",
+        "Explain grid-template-columns.",
+        "What is fr unit in CSS Grid?",
+        "What is grid-area?"
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "Grid container and grid items",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "grid-template-columns and grid-template-rows",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "The fr unit and repeat()",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "Grid gaps (gap, row-gap, column-gap)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "Placing items with grid-column and grid-row",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "grid-template-areas",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "auto-fill and auto-fit",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "Mini Project: Build a dashboard layout",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "javascript",
+      "category": "Frontend",
+      "title": "JavaScript Fundamentals",
+      "icon": "⚡",
+      "difficulty": "Intermediate",
+      "estimatedHours": 30,
+      "xpReward": 900,
+      "description": "JavaScript is the programming language of the web. It makes web pages interactive, dynamic, and powerful.",
+      "whyLearn": "JavaScript is the only programming language that runs natively in browsers. Every frontend and Node.js backend developer must know it thoroughly.",
+      "resources": [
+        {
+          "title": "javascript.info",
+          "url": "https://javascript.info"
+        },
+        {
+          "title": "Eloquent JavaScript",
+          "url": "https://eloquentjavascript.net"
+        },
+        {
+          "title": "MDN JavaScript",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        }
+      ],
+      "practiceProjects": [
+        "To-Do App",
+        "Calculator",
+        "Quiz App",
+        "Weather App"
+      ],
+      "interviewQuestions": [
+        "What is the difference between var, let, and const?",
+        "Explain closures in JavaScript.",
+        "What is hoisting?",
+        "Explain the event loop.",
+        "What is the difference between == and ===?"
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "Variables: var, let, const",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "Data Types: string, number, boolean, null, undefined, object",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "Operators and Expressions",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "Control Flow: if/else, switch, ternary",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "Loops: for, while, for...of, for...in",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "Functions: declaration, expression, arrow functions",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "Arrays: methods, iteration",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "Objects: properties, methods, destructuring",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "Scope, Hoisting & Closures",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "The Event Loop & Asynchronous JS",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t10",
+          "title": "Error Handling: try/catch/finally",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t11",
+          "title": "Template Literals & Spread/Rest",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t12",
+          "title": "Modules: import/export",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t13",
+          "title": "JSON: parse and stringify",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t14",
+          "title": "Mini Project: Build an interactive quiz app",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "jsadvanced",
+      "category": "Frontend",
+      "title": "JavaScript Advanced",
+      "icon": "🚀",
+      "difficulty": "Advanced",
+      "estimatedHours": 25,
+      "xpReward": 750,
+      "description": "Advanced JavaScript covers complex patterns, async programming, prototypes, design patterns, and performance optimization.",
+      "whyLearn": "Senior developers and interviewers test advanced JS deeply. Mastering this separates beginners from professionals.",
+      "resources": [
+        {
+          "title": "You Don't Know JS",
+          "url": "https://github.com/getify/You-Dont-Know-JS"
+        },
+        {
+          "title": "javascript.info Advanced",
+          "url": "https://javascript.info/advanced-functions"
+        }
+      ],
+      "practiceProjects": [
+        "Custom Promise Library",
+        "Event Emitter",
+        "Debounce/Throttle"
+      ],
+      "interviewQuestions": [
+        "Explain prototypal inheritance.",
+        "What is the difference between call, apply, and bind?",
+        "What are Promises and async/await?",
+        "What is a generator function?",
+        "Explain WeakMap and WeakSet."
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "Prototypes & Prototype Chain",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "this keyword: call, apply, bind",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "Promises: creation, chaining, .all, .race",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "Async/Await & error handling",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "Generators and Iterators",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "Symbols and Well-known Symbols",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "Proxy & Reflect",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "WeakMap, WeakSet, WeakRef",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "Memory Management & Garbage Collection",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "Design Patterns: Module, Observer, Factory",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t10",
+          "title": "Performance: debounce, throttle, memoization",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t11",
+          "title": "Mini Project: Build a custom event system",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "dom",
+      "category": "Frontend",
+      "title": "DOM Manipulation",
+      "icon": "🔧",
+      "difficulty": "Intermediate",
+      "estimatedHours": 10,
+      "xpReward": 300,
+      "description": "The Document Object Model (DOM) is the programmatic interface for HTML documents. DOM manipulation allows JavaScript to dynamically change web page content.",
+      "whyLearn": "DOM manipulation is how JavaScript makes web pages interactive. Every frontend developer must understand it deeply.",
+      "resources": [
+        {
+          "title": "MDN DOM Guide",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model"
+        }
+      ],
+      "practiceProjects": [
+        "Dynamic Todo List",
+        "Image Slider",
+        "Form Validator"
+      ],
+      "interviewQuestions": [
+        "What is the difference between getElementById and querySelector?",
+        "Explain event bubbling and capturing.",
+        "What is event delegation?",
+        "What is the difference between innerHTML and textContent?"
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "DOM tree structure",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "Selecting elements: getElementById, querySelector, querySelectorAll",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "Creating, inserting, removing elements",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "Modifying content: innerHTML, textContent, innerText",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "Modifying attributes and classes",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "CSS manipulation via JS",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "Events: addEventListener, removeEventListener",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "Event object, preventDefault, stopPropagation",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "Event bubbling, capturing & delegation",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "Mini Project: Build a dynamic task manager",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "react",
+      "category": "Frontend",
+      "title": "React Fundamentals",
+      "icon": "⚛️",
+      "difficulty": "Intermediate",
+      "estimatedHours": 25,
+      "xpReward": 750,
+      "description": "React is a JavaScript library for building user interfaces. It uses a component-based architecture and virtual DOM for efficient updates.",
+      "whyLearn": "React is the most popular frontend library used by Meta, Airbnb, Netflix, and thousands of companies. It's the top skill in frontend job listings.",
+      "resources": [
+        {
+          "title": "React Official Docs",
+          "url": "https://react.dev"
+        },
+        {
+          "title": "Scrimba React Course",
+          "url": "https://scrimba.com"
+        }
+      ],
+      "practiceProjects": [
+        "Movie Search App",
+        "Shopping Cart",
+        "Blog with CRUD"
+      ],
+      "interviewQuestions": [
+        "What is the virtual DOM?",
+        "Explain React reconciliation.",
+        "What are controlled vs uncontrolled components?",
+        "What is prop drilling?",
+        "Explain the React component lifecycle."
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "What is React and why use it?",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "JSX: JavaScript XML syntax",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "Components: functional components",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "Props: passing and receiving data",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "State: useState hook",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "useEffect hook and side effects",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "Event handling in React",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "Conditional rendering",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "Lists and keys",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "Forms and controlled components",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t10",
+          "title": "Component composition and children",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t11",
+          "title": "Mini Project: Build a full blog application",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "reacthooks",
+      "category": "Frontend",
+      "title": "React Hooks Deep Dive",
+      "icon": "🪝",
+      "difficulty": "Advanced",
+      "estimatedHours": 15,
+      "xpReward": 450,
+      "description": "React Hooks are functions that let you use state and other React features in functional components. They are the modern way to write React.",
+      "whyLearn": "Hooks are now the standard in React development. Deep knowledge of hooks is required for all React interviews and professional projects.",
+      "resources": [
+        {
+          "title": "React Hooks Reference",
+          "url": "https://react.dev/reference/react"
+        }
+      ],
+      "practiceProjects": [
+        "Custom useFetch Hook",
+        "useLocalStorage Hook",
+        "useDebounce Hook"
+      ],
+      "interviewQuestions": [
+        "When should you use useCallback vs useMemo?",
+        "Explain the rules of hooks.",
+        "What is useRef used for?",
+        "How does useReducer differ from useState?"
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "useState: state management",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "useEffect: lifecycle & cleanup",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "useContext: consuming context",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "useRef: DOM refs & mutable values",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "useMemo: memoizing values",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "useCallback: memoizing functions",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "useReducer: complex state",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "useId and useTransition",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "Custom hooks: building your own",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "Mini Project: Build a custom hook library",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "nextjs",
+      "category": "Frontend",
+      "title": "Next.js",
+      "icon": "▲",
+      "difficulty": "Advanced",
+      "estimatedHours": 20,
+      "xpReward": 600,
+      "description": "Next.js is a React framework that adds server-side rendering, static site generation, API routes, and more to React applications.",
+      "whyLearn": "Next.js is the most popular React framework for production apps. It's used by Vercel, TikTok, Twitch, and thousands of companies.",
+      "resources": [
+        {
+          "title": "Next.js Official Docs",
+          "url": "https://nextjs.org/docs"
+        },
+        {
+          "title": "Next.js Tutorial",
+          "url": "https://nextjs.org/learn"
+        }
+      ],
+      "practiceProjects": [
+        "Blog with SSG",
+        "E-commerce Store",
+        "Dashboard App"
+      ],
+      "interviewQuestions": [
+        "What is the difference between SSR and SSG?",
+        "Explain Next.js App Router vs Pages Router.",
+        "What are Server Components?",
+        "How does Next.js handle API routes?"
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "Next.js setup and project structure",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "Pages Router vs App Router",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "File-based routing",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "Server-Side Rendering (SSR)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "Static Site Generation (SSG)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "Incremental Static Regeneration (ISR)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "API Routes",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "Server Components & Client Components",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "Data fetching patterns",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "Image optimization",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t10",
+          "title": "Deployment to Vercel",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t11",
+          "title": "Mini Project: Full-stack Next.js app",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "nodejs",
+      "category": "Backend",
+      "title": "Node.js",
+      "icon": "🟢",
+      "difficulty": "Intermediate",
+      "estimatedHours": 20,
+      "xpReward": 600,
+      "description": "Node.js is a JavaScript runtime built on Chrome's V8 engine. It allows running JavaScript on the server side.",
+      "whyLearn": "Node.js enables full-stack JavaScript development. It's used by Netflix, LinkedIn, Uber, and is the backbone of most JS backends.",
+      "resources": [
+        {
+          "title": "Node.js Official Docs",
+          "url": "https://nodejs.org/docs"
+        },
+        {
+          "title": "The Odin Project Node",
+          "url": "https://www.theodinproject.com"
+        }
+      ],
+      "practiceProjects": [
+        "File system CLI tool",
+        "REST API server",
+        "Real-time chat server"
+      ],
+      "interviewQuestions": [
+        "What is the event loop in Node.js?",
+        "What is the difference between process.nextTick and setImmediate?",
+        "Explain Node.js streams.",
+        "What is npm and how do you manage dependencies?"
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "Node.js architecture and event loop",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "Core modules: fs, path, http, os",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "npm: installing and managing packages",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "package.json and scripts",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "CommonJS vs ES Modules",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "File system operations (async/sync)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "Streams and Buffers",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "Events and EventEmitter",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "Process and environment variables",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "Worker threads basics",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t10",
+          "title": "Error handling in Node",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t11",
+          "title": "Mini Project: Build a CLI file manager",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "express",
+      "category": "Backend",
+      "title": "Express.js",
+      "icon": "🚂",
+      "difficulty": "Intermediate",
+      "estimatedHours": 15,
+      "xpReward": 450,
+      "description": "Express is a minimal and flexible Node.js web application framework that provides routing, middleware, and utilities for building web and API servers.",
+      "whyLearn": "Express is the most popular Node.js framework. Understanding it is essential for backend development and all Node.js interviews.",
+      "resources": [
+        {
+          "title": "Express.js Official Docs",
+          "url": "https://expressjs.com"
+        }
+      ],
+      "practiceProjects": [
+        "Todo REST API",
+        "Authentication Server",
+        "File Upload API"
+      ],
+      "interviewQuestions": [
+        "What is middleware in Express?",
+        "Explain the difference between app.use() and app.get().",
+        "What is the order of middleware execution?",
+        "How do you handle errors in Express?"
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "Express setup and basic server",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "Routing: GET, POST, PUT, DELETE, PATCH",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "Route parameters and query strings",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "Middleware: built-in, third-party, custom",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "Request and Response objects",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "Template engines (EJS, Pug)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "Error handling middleware",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "Static file serving",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "CORS and security headers",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "Mini Project: Build a complete REST API",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "restapi",
+      "category": "Backend",
+      "title": "REST API Design",
+      "icon": "🔌",
+      "difficulty": "Intermediate",
+      "estimatedHours": 10,
+      "xpReward": 300,
+      "description": "REST (Representational State Transfer) is an architectural style for designing networked applications using HTTP methods.",
+      "whyLearn": "REST APIs are the communication layer of every modern application. Knowing good API design is essential for backend developers.",
+      "resources": [
+        {
+          "title": "REST API Tutorial",
+          "url": "https://restapitutorial.com"
+        }
+      ],
+      "practiceProjects": [
+        "Blog API",
+        "Social Media API",
+        "E-commerce API"
+      ],
+      "interviewQuestions": [
+        "What are the HTTP methods and when to use each?",
+        "What is idempotency?",
+        "Explain REST vs GraphQL.",
+        "What are HTTP status codes?"
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "REST principles and constraints",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "HTTP methods: GET, POST, PUT, PATCH, DELETE",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "HTTP status codes (200, 201, 400, 401, 403, 404, 500)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "URL design and resource naming",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "Request/Response headers",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "Query parameters, path params, request body",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "Pagination, filtering, sorting",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "API versioning",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "Rate limiting",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "API documentation (OpenAPI/Swagger)",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "auth",
+      "category": "Backend",
+      "title": "Authentication & Authorization",
+      "icon": "🔐",
+      "difficulty": "Advanced",
+      "estimatedHours": 15,
+      "xpReward": 450,
+      "description": "Authentication verifies who you are. Authorization determines what you can do. Both are critical for secure application development.",
+      "whyLearn": "Security is non-negotiable in professional development. Broken authentication is one of the top OWASP vulnerabilities.",
+      "resources": [
+        {
+          "title": "Auth0 Blog",
+          "url": "https://auth0.com/blog"
+        },
+        {
+          "title": "JWT.io",
+          "url": "https://jwt.io"
+        }
+      ],
+      "practiceProjects": [
+        "Login/Register System",
+        "JWT Auth API",
+        "OAuth Integration"
+      ],
+      "interviewQuestions": [
+        "What is the difference between authentication and authorization?",
+        "How does JWT work?",
+        "What is OAuth 2.0?",
+        "What is bcrypt and why is it used for passwords?"
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "Sessions vs Tokens",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "Password hashing with bcrypt",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "JWT: structure, signing, verification",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "Access tokens and refresh tokens",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "OAuth 2.0 flow",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "Google/GitHub OAuth integration",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "Role-based access control (RBAC)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "Middleware: protect routes",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "CORS and security headers",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "Common vulnerabilities and prevention",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "sqlbasics",
+      "category": "Database",
+      "title": "SQL Fundamentals",
+      "icon": "🗄️",
+      "difficulty": "Intermediate",
+      "estimatedHours": 15,
+      "xpReward": 450,
+      "description": "SQL (Structured Query Language) is the standard language for relational databases. It's used to create, read, update, and delete data.",
+      "whyLearn": "SQL is used in 90% of companies. It's essential for DBMS interviews, backend development, and data analysis.",
+      "resources": [
+        {
+          "title": "SQLBolt",
+          "url": "https://sqlbolt.com"
+        },
+        {
+          "title": "Mode SQL Tutorial",
+          "url": "https://mode.com/sql-tutorial/"
+        }
+      ],
+      "practiceProjects": [
+        "Student Database",
+        "E-commerce Database",
+        "Library System"
+      ],
+      "interviewQuestions": [
+        "What is the difference between INNER JOIN and LEFT JOIN?",
+        "What is normalization?",
+        "What are indexes and why are they used?",
+        "What is a subquery?"
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "Relational database concepts",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "SELECT, FROM, WHERE",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "INSERT, UPDATE, DELETE",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "JOINs: INNER, LEFT, RIGHT, FULL",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "GROUP BY, HAVING, ORDER BY",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "Aggregate functions: COUNT, SUM, AVG, MAX, MIN",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "Subqueries and nested queries",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "Indexes and performance",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "Normalization: 1NF, 2NF, 3NF",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "Transactions: ACID properties",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t10",
+          "title": "Stored procedures and views",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t11",
+          "title": "Mini Project: Design a complete database schema",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "mongodb",
+      "category": "Database",
+      "title": "MongoDB",
+      "icon": "🍃",
+      "difficulty": "Intermediate",
+      "estimatedHours": 15,
+      "xpReward": 450,
+      "description": "MongoDB is a NoSQL document database that stores data in flexible JSON-like documents. It's widely used in Node.js applications.",
+      "whyLearn": "MongoDB with Node.js is the M in MERN stack. It's the most popular NoSQL database for web applications.",
+      "resources": [
+        {
+          "title": "MongoDB University",
+          "url": "https://university.mongodb.com"
+        },
+        {
+          "title": "MongoDB Docs",
+          "url": "https://www.mongodb.com/docs"
+        }
+      ],
+      "practiceProjects": [
+        "Blog with Comments",
+        "User Profile System",
+        "Product Catalog"
+      ],
+      "interviewQuestions": [
+        "What is the difference between SQL and NoSQL?",
+        "When would you use MongoDB over MySQL?",
+        "What is an ObjectId?",
+        "Explain MongoDB aggregation pipeline."
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "NoSQL vs SQL concepts",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "MongoDB documents and collections",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "CRUD operations in MongoDB",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "Query operators: $eq, $gt, $in, $and, $or",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "Projection: selecting fields",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "Sorting, skip, limit",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "Indexes in MongoDB",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "Aggregation pipeline",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "Schema design and embedding vs referencing",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "MongoDB Atlas (cloud setup)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t10",
+          "title": "Mongoose ODM basics",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t11",
+          "title": "Mini Project: Backend API with MongoDB",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "git",
+      "category": "DevOps",
+      "title": "Git & GitHub",
+      "icon": "🐙",
+      "difficulty": "Beginner",
+      "estimatedHours": 8,
+      "xpReward": 240,
+      "description": "Git is a distributed version control system. GitHub is a platform for hosting and collaborating on Git repositories.",
+      "whyLearn": "Git is used by every software developer daily. It's mandatory for any software development job.",
+      "resources": [
+        {
+          "title": "Pro Git Book",
+          "url": "https://git-scm.com/book"
+        },
+        {
+          "title": "GitHub Learning Lab",
+          "url": "https://skills.github.com"
+        }
+      ],
+      "practiceProjects": [
+        "Open Source Contribution",
+        "Team Project Workflow",
+        "CI/CD Pipeline"
+      ],
+      "interviewQuestions": [
+        "What is the difference between git merge and git rebase?",
+        "Explain git stash.",
+        "What is a pull request?",
+        "How do you resolve merge conflicts?"
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "Git installation and configuration",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "init, clone, status, add, commit",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "Branching: create, switch, merge",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "Remote repositories: push, pull, fetch",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "GitHub: repositories, issues, pull requests",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "Merge conflicts resolution",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "git stash and cherry-pick",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "git log, diff, blame",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "Git flow workflow",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "GitHub Actions basics",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t10",
+          "title": ".gitignore best practices",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t11",
+          "title": "Mini Project: Collaborate on a team project",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "docker",
+      "category": "DevOps",
+      "title": "Docker",
+      "icon": "🐳",
+      "difficulty": "Intermediate",
+      "estimatedHours": 12,
+      "xpReward": 360,
+      "description": "Docker is a platform for building, running, and shipping applications in containers. Containers ensure your app runs consistently everywhere.",
+      "whyLearn": "Docker is now standard in every DevOps pipeline. Companies expect developers to understand containerization.",
+      "resources": [
+        {
+          "title": "Docker Official Docs",
+          "url": "https://docs.docker.com"
+        },
+        {
+          "title": "Play with Docker",
+          "url": "https://labs.play-with-docker.com"
+        }
+      ],
+      "practiceProjects": [
+        "Dockerize a Node app",
+        "Multi-container with Compose",
+        "Docker Hub CI"
+      ],
+      "interviewQuestions": [
+        "What is a Docker container vs a VM?",
+        "What is a Dockerfile?",
+        "What is Docker Compose?",
+        "What is the difference between CMD and ENTRYPOINT?"
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "What is Docker and containerization?",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "Docker installation and setup",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "Docker images: pull, build, push",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "Docker containers: run, stop, start, rm",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "Dockerfile: FROM, RUN, COPY, EXPOSE, CMD",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "Docker volumes and persistence",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "Docker networking",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "Docker Compose: multi-service apps",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "Docker Hub and image registry",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "Docker in CI/CD pipelines",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t10",
+          "title": "Container best practices",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t11",
+          "title": "Mini Project: Containerize your full-stack app",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "arrays",
+      "category": "DSA",
+      "title": "Arrays & Strings",
+      "icon": "📊",
+      "difficulty": "Intermediate",
+      "estimatedHours": 20,
+      "xpReward": 600,
+      "description": "Arrays are the most fundamental data structure. String problems are extremely common in coding interviews.",
+      "whyLearn": "Arrays and strings appear in 70% of coding interviews. Mastering these is the foundation for all DSA success.",
+      "resources": [
+        {
+          "title": "LeetCode Arrays",
+          "url": "https://leetcode.com/tag/array/"
+        },
+        {
+          "title": "NeetCode",
+          "url": "https://neetcode.io"
+        }
+      ],
+      "practiceProjects": [
+        "Implement sorting algorithms",
+        "String manipulation library"
+      ],
+      "interviewQuestions": [
+        "How do you find duplicates in an array?",
+        "Explain two-pointer technique.",
+        "What is sliding window?",
+        "How to reverse a string in-place?"
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "Array fundamentals and operations",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "Two-pointer technique",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "Sliding window technique",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "Prefix sums",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "Sorting algorithms: bubble, selection, insertion",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "Sorting algorithms: merge sort, quick sort",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "Binary search on arrays",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "String manipulation techniques",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "String matching: KMP algorithm",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "Anagram and palindrome problems",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t10",
+          "title": "Subarray problems",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t11",
+          "title": "Matrix (2D array) problems",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t12",
+          "title": "LeetCode: 20 array problems solved",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t13",
+          "title": "LeetCode: 10 string problems solved",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t14",
+          "title": "Mini Project: Build a sorting visualizer",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "linkedlist",
+      "category": "DSA",
+      "title": "Linked Lists",
+      "icon": "🔗",
+      "difficulty": "Intermediate",
+      "estimatedHours": 12,
+      "xpReward": 360,
+      "description": "A linked list is a linear data structure where elements are connected using pointers. It's a classic interview topic.",
+      "whyLearn": "Linked lists test your understanding of pointers and memory. They appear frequently in interviews at FAANG companies.",
+      "resources": [
+        {
+          "title": "LeetCode Linked List",
+          "url": "https://leetcode.com/tag/linked-list/"
+        }
+      ],
+      "practiceProjects": [
+        "Implement a LinkedList class",
+        "LRU Cache"
+      ],
+      "interviewQuestions": [
+        "How to detect a cycle in a linked list?",
+        "How to reverse a linked list?",
+        "How to find the middle of a linked list?",
+        "What is a doubly linked list?"
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "Singly linked list: nodes and pointers",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "Traversal and search",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "Insertion: head, tail, middle",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "Deletion: by value, by position",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "Reverse a linked list",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "Detect cycle: Floyd's algorithm",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "Find middle node (fast/slow pointers)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "Doubly linked list",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "Merge two sorted linked lists",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "LeetCode: 15 linked list problems solved",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "trees",
+      "category": "DSA",
+      "title": "Trees & BST",
+      "icon": "🌳",
+      "difficulty": "Advanced",
+      "estimatedHours": 20,
+      "xpReward": 600,
+      "description": "Trees are hierarchical data structures. Binary Search Trees (BST) are fundamental for fast data lookup, insertion, and deletion.",
+      "whyLearn": "Tree problems are extremely common in technical interviews. Understanding recursion on trees is essential for senior roles.",
+      "resources": [
+        {
+          "title": "LeetCode Tree Problems",
+          "url": "https://leetcode.com/tag/tree/"
+        },
+        {
+          "title": "Visualgo Trees",
+          "url": "https://visualgo.net/en/bst"
+        }
+      ],
+      "practiceProjects": [
+        "BST implementation",
+        "Expression Tree",
+        "File System Tree"
+      ],
+      "interviewQuestions": [
+        "What is the difference between a tree and a graph?",
+        "Explain in-order, pre-order, post-order traversal.",
+        "What is a balanced BST?",
+        "What is the time complexity of BST operations?"
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "Tree terminology: root, node, leaf, height, depth",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "Binary tree properties",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "Tree traversal: in-order, pre-order, post-order",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "Level-order traversal (BFS)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "Binary Search Tree: insert, search, delete",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "BST validation",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "Height and depth calculations",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "Lowest Common Ancestor (LCA)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "AVL Trees and rotations",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "Heaps and priority queues",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t10",
+          "title": "Trie data structure",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t11",
+          "title": "LeetCode: 20 tree problems solved",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    },
+    {
+      "id": "dynamicprog",
+      "category": "DSA",
+      "title": "Dynamic Programming",
+      "icon": "🧩",
+      "difficulty": "Advanced",
+      "estimatedHours": 30,
+      "xpReward": 900,
+      "description": "Dynamic Programming is a technique for solving complex problems by breaking them into overlapping subproblems and storing results.",
+      "whyLearn": "DP is the hardest and most asked topic in FAANG interviews. Mastering it separates average candidates from top performers.",
+      "resources": [
+        {
+          "title": "NeetCode DP",
+          "url": "https://neetcode.io/roadmap"
+        },
+        {
+          "title": "DP Patterns",
+          "url": "https://leetcode.com/discuss/general-discussion/458695/"
+        }
+      ],
+      "practiceProjects": [
+        "Shortest Path with DP",
+        "Coin Change solver"
+      ],
+      "interviewQuestions": [
+        "What is memoization vs tabulation?",
+        "What is the Knapsack problem?",
+        "Explain the Fibonacci DP approach.",
+        "What is the time complexity of Fibonacci with memoization?"
+      ],
+      "topics": [
+        {
+          "id": "t0",
+          "title": "DP fundamentals: overlapping subproblems",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t1",
+          "title": "Memoization (top-down DP)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t2",
+          "title": "Tabulation (bottom-up DP)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t3",
+          "title": "Fibonacci sequence (DP approach)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t4",
+          "title": "Coin change problem",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t5",
+          "title": "Longest Common Subsequence (LCS)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t6",
+          "title": "Longest Increasing Subsequence (LIS)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t7",
+          "title": "0/1 Knapsack problem",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t8",
+          "title": "Matrix chain multiplication",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t9",
+          "title": "Edit distance (Levenshtein)",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t10",
+          "title": "DP on strings",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t11",
+          "title": "DP on trees",
+          "completed": false,
+          "xp": 20
+        },
+        {
+          "id": "t12",
+          "title": "LeetCode: 30 DP problems solved",
+          "completed": false,
+          "xp": 20
+        }
+      ]
+    }
+  ],
+  "analytics": {
+    "dailyLogs": [],
+    "weeklyLogs": [],
+    "insights": []
+  },
+  "notifications": {
+    "morning": true,
+    "coding": true,
+    "workout": true,
+    "water": true,
+    "english": true,
+    "journal": true
+  },
+  "tools": {
+    "flashcards": [],
+    "pomodoroSessions": 0,
+    "notes": []
+  },
+  "aiCoach": {
+    "messages": [
+      {
+        "id": "u-1781797707467",
+        "role": "user",
+        "content": "sum of the digits java code",
+        "timestamp": "2026-06-18T15:48:27.467Z",
+        "category": "coding"
+      },
+      {
+        "id": "c-1781797708653",
+        "role": "coach",
+        "content": "Madan, you've coded 0 hours so far. Start with HTML & CSS basics on your roadmap, then move to JavaScript. Aim for at least 1 hour every day — it adds up faster than you think! 💻",
+        "timestamp": "2026-06-18T15:48:28.653Z",
+        "category": "coding"
+      },
+      {
+        "id": "u-1781797744339",
+        "role": "user",
+        "content": "Placement advice",
+        "timestamp": "2026-06-18T15:49:04.339Z",
+        "category": "placement"
+      },
+      {
+        "id": "c-1781797745232",
+        "role": "coach",
+        "content": "You're at 0% placement readiness. Start with DSA fundamentals and Core Java — these are asked in every company. Solve 2 LeetCode problems daily. I'll track your progress! 🎯",
+        "timestamp": "2026-06-18T15:49:05.232Z",
+        "category": "placement"
+      },
+      {
+        "id": "u-1781799374969",
+        "role": "user",
+        "content": "what is the differnce between tags and emmbed links in html",
+        "timestamp": "2026-06-18T16:16:14.969Z",
+        "category": "study"
+      },
+      {
+        "id": "c-1781799376007",
+        "role": "coach",
+        "content": "70 XP earned, 0h coded — you're building real skills. The key is maintaining your daily routine. What specific challenge are you facing today?",
+        "timestamp": "2026-06-18T16:16:16.008Z",
+        "category": "study"
+      }
+    ],
+    "lastAdvice": null,
+    "weeklyReport": null
+  }
+}
