@@ -1,4 +1,4 @@
-# LifeOS 365 Simple ER Diagram
+# Personal Growth Tracking System
 
 Here is your simple and professional ER diagram showing the database entities and the CRUD relationships (create, display, update, delete) between them:
 
