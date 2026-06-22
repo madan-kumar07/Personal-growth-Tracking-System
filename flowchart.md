@@ -81,12 +81,6 @@ graph TD
     ExitApp --> End
 ```
 
-> [!TIP]
-> **To export this flowchart in high resolution for your report:**
-> 1. Copy the code block above.
-> 2. Paste it into the free [Mermaid Live Editor (mermaid.live)](https://mermaid.live).
-> 3. Click **Actions** -> **PNG** or **SVG** to download the diagram in ultra-high resolution.
-
 ---
 
 ## 2. Pre-rendered Graphic Asset
