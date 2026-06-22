@@ -83,8 +83,3 @@ graph TD
 
 ---
 
-## 2. Pre-rendered Graphic Asset
-
-Below is a generated high-resolution visual representation of the flowchart for direct use.
-
-![LIFEOS 365 Flowchart Graphic](file:///C:/Users/ADMIN/.gemini/antigravity/brain/db7e9b7d-e39e-4a26-8b19-e61c90ae1a26/lifeos_flowchart_1782120103482.png)
